@@ -38,7 +38,7 @@ javascript:void%20function(){const%20a=%22abcdefghijklmnopqrstuvwxyz0123456789%2
 
 Add it to your bookmarks bar and simply click it to copy a salt to your clipboard!
 
-In case you're curious, this minified bookmarklet is generated from the source below using the excellent [Bookmarkleter](https://chriszarate.github.io/bookmarkleter/) with URL encoding, IIFE and variable mangling enabled.
+In case you're curious, this minified bookmarklet is generated from the [source](source.js) using the excellent [Bookmarkleter](https://chriszarate.github.io/bookmarkleter/) with URL encoding, IIFE and variable mangling enabled.
 
 ---
 ---
